@@ -1,0 +1,6 @@
+hexo clean
+hexo generate
+hexo deploy
+git add -A
+git commit -m many
+git push
