@@ -1,14 +1,14 @@
-l# Hexo Configuration
+# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 朽木の快乐老家
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: zh-CN
+author: Rotten_wooood
+language: en
 timezone: ''
 
 # URL

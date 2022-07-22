@@ -4,9 +4,7 @@ avatar:
   opacity: 1
 colors:
   primary: '#6200ee'
-  # bg: "#F5F5F5"
-  selection_bg: '#8e71c1' # 选取文字时的背景色
-  # 标签云中标签的起始色和结束色
+  selection_bg: '#8e71c1'
   tag_start_color: '#71c1bc'
   tag_end_color: '#46ada7'
 tags:
@@ -23,4 +21,78 @@ tags:
   TypeScript: '#317AC6'
   Laravel: '#F4645F'
 categories:
-  日记: '#4ddcff'
+  diary: '#4ddcff'
+favicon: /favicon.ico
+head:
+  css:
+    cdn: https://cdn.jsdelivr.net/gh/Rottenwooood/rottenwooood.github.io@latest
+  js:
+    base:
+      - xxx
+    async:
+    defer:
+cdn:
+  pre: 'https://cdn.jsdelivr.net/gh/Rottenwooood/rottenwooood.github.io@latest'
+  css:
+  js:
+    base:
+      - xxx
+    async:
+      iconfont: //at.alicdn.com/t/font_1140697_dxory92pb0h.js
+    defer:
+social:
+  #- name: RSS
+    # set rss in your root config
+    # https://github.com/hexojs/hexo-generator-feed
+  #  link: /atom.xml # config.feed.path
+  #  icon: ri:rss-line
+  #  color: orange
+  - name: GitHub
+    link: https://github.com/Rottenwooood
+    icon: ri:github-line
+    color: '#181717'
+  #- name: E-Mail
+  #  link: mailto:me@yunyoujun.cn
+  #  icon: ri:mail-line
+  #  color: '#8E71C1'
+  #- name: 微博
+  #  link: https://weibo.com/jizhideyunyoujun
+  #  icon: ri:weibo-line
+  #  color: '#E6162D'
+  #- name: 豆瓣
+  #  link: https://www.douban.com/people/yunyoujun/
+  #  icon: ri:douban-line
+  #  color: '#007722'
+  - name: 网易云音乐
+    link: https://music.163.com/#/user/home?id=5091480848
+    icon: ri:netease-cloud-music-line
+    color: '#C10D0C'
+  - name: 知乎
+    link: https://www.zhihu.com/people/yunyoujun/
+    icon: ri:zhihu-line
+    color: '#0084FF'
+  - name: 哔哩哔哩
+    link: space.bilibili.com/476132648
+    icon: ri:bilibili-line
+    color: '#FF8EB3'
+  #- name: Twitter
+  #  link: https://twitter.com/YunYouJun
+  #  icon: ri:twitter-line
+  #  color: '#1da1f2'
+  #- name: Telegram
+  #  link: https://t.me/YunYouJun
+  #  icon: ri:telegram-line
+  #  color: '#0088CC'
+  #- name: Telegram Channel
+  #  link: https://t.me/elpsycn
+  #  icon: ri:telegram-fill
+  #  color: '#0088CC'
+  #- name: Travelling
+  #  link: https://travellings.link
+  #  icon: ri:send-plane-2-line
+  #  color: black
+notice:
+  enable: true
+  content: ok，全体目光向我看齐奥，看我看我，我宣布个事，我是个↑↓！
+# 可选 light | dark | auto | time
+mode: auto
