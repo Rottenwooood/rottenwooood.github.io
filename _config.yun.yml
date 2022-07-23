@@ -73,10 +73,10 @@ social:
     link: https://music.163.com/#/user/home?id=5091480848
     icon: ri:netease-cloud-music-line
     color: '#C10D0C'
-  - name: 知乎
-    link: https://www.zhihu.com/people/yunyoujun/
-    icon: ri:zhihu-line
-    color: '#0084FF'
+  #- name: 知乎
+  #  link: https://www.zhihu.com/people/yunyoujun/
+  #  icon: ri:zhihu-line
+  #  color: '#0084FF'
   - name: 哔哩哔哩
     link: space.bilibili.com/476132648
     icon: ri:bilibili-line
@@ -120,16 +120,16 @@ fireworks:
     - '33, 78, 194'
 creative_commons:
   license: by-nc-sa
-  post: true
+  post: false
   language: deed.zh
-  clipboard: true
+  clipboard: false
 reward:
   enable: true
   icon: ri:hand-coin-line
   comment: 我很可爱，请给我钱
   methods:
     - name: 微信支付
-      path: https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg
+      path: https://s2.loli.net/2022/07/23/AsmtEBx3hKu4OlU.png
       color: '#2DC100'
       icon: ri:wechat-pay-line
 engine_search:
@@ -141,8 +141,8 @@ footer:
   #beian:
   #  enable: true
   #  icp: 尚未备案 #苏ICP备xxxxxxxx号
-  live_time:
-    enable: false
-    prefix: 本博客已运行
-    suffix: (●'◡'●)
-    start_time: '2022-07-2T00:00:00'
+  #live_time:
+  #  enable: false
+  #  prefix: 本博客已运行
+  #  suffix: (●'◡'●)
+  #  start_time: '2022-07-2T00:00:00'
