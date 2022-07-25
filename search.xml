@@ -2,36 +2,45 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2022/07/22/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>《关于我建了个博客这件事》</title>
-    <url>/2022/07/22/%E3%80%8A%E5%85%B3%E4%BA%8E%E6%88%91%E5%BB%BA%E4%BA%86%E4%B8%AA%E5%8D%9A%E5%AE%A2%E8%BF%99%E4%BB%B6%E4%BA%8B%E3%80%8B/</url>
-    <content><![CDATA[<h2 id="《关于我建了个博客这件事》"><a href="#《关于我建了个博客这件事》" class="headerlink" title="《关于我建了个博客这件事》"></a>《关于我建了个博客这件事》</h2><h3 id="2022-x2F-07-x2F-22"><a href="#2022-x2F-07-x2F-22" class="headerlink" title="2022&#x2F;07&#x2F;22"></a>2022&#x2F;07&#x2F;22</h3><p>  <del><em>这天注定成为一个伟大的日子</em></del></p>
-<p>“挑明说吧，我下午闲得慌于是乎就做了这个博客”</p>
-<p>“没了？”</p>
-<p><del>“啊对（厚颜无耻）”</del></p>
-<p>以后大概率会往这发点东西罢</p>
+    <url>/2022/07/22/Hello%20World/</url>
+    <content><![CDATA[<p>2022&#x2F;7&#x2F;22</p>
+<p>这天，在互联网的一个隐蔽角落里，有一个角落，散发出微弱的光芒，它命数未定，摇曳于风中</p>
+<p><del>能不能别这么中二了</del></p>
+<p><img src="https://s2.loli.net/2022/07/25/H8iJCjEqGZ3wrxk.jpg" alt="这种行为是个人都是会呵斥的.jpg" loading="lazy"></p>
 ]]></content>
       <categories>
         <category>初见</category>
       </categories>
       <tags>
         <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>寄梦（其一）</title>
+    <url>/2022/07/25/%E5%AF%84%E6%A2%A6%EF%BC%88%E5%85%B6%E4%B8%80%EF%BC%89/</url>
+    <content><![CDATA[<h1 id="你永远也达不到一班的真实"><a href="#你永远也达不到一班的真实" class="headerlink" title="你永远也达不到一班的真实"></a>你永远也达不到一班的真实</h1><p>“要考试了？”,我迷迷糊糊地看着眼前苦口婆心开导我的金姐，并没有意识到现在已经放假了</p>
+<p>“你语文英语上次考的分不高，做题的时候记得仔细点。”</p>
+<p>“好，好，我知道了。”我敷衍着她，正对着她的脸</p>
+<h1 id="上午到底考了个啥？"><a href="#上午到底考了个啥？" class="headerlink" title="上午到底考了个啥？"></a>上午到底考了个啥？</h1><p>不知道过了过长时间，我恍惚中进了考场，然后没有发答题卡和卷子的步骤，直接开始了答题</p>
+<p>然而我并不知道现在考的是哪一科</p>
+<p>我就坐在那做啊做，时钟从”8”指向了”12”，这时我还在纠结写的歪歪扭扭的字，划掉重来，然后四小时一共做了四道阅读题</p>
+<p>看着缓缓指向”12”的时钟，我忽的清醒过来，”上午考的哪两科””我作文好像还没写呢吧”</p>
+<p>我陷入了无穷无尽的绝望中</p>
+<p>我两眼一黑，似乎要一下子沉睡过去</p>
+<h1 id="梦醒了是吧"><a href="#梦醒了是吧" class="headerlink" title="梦醒了是吧"></a>梦醒了是吧</h1><p>猛然间，我睁开了眼睛，晨光透过窗户，均匀地打在房间的每一处</p>
+<p>“原来是梦啊，TNND吓死我了”</p>
+<p>“下楼吃饭了！”老妈在楼下大声喊着</p>
+<p>“知道了。”我回答了一声，抱怨闹铃没把我弄醒</p>
+<p>我穿上衣服，走下楼，</p>
+<h1 id="删减部分"><a href="#删减部分" class="headerlink" title="删减部分"></a><del>删减部分</del></h1><p><del>并没有意识到我是一个人在家…</del></p>
+<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>z1a0：”我的评价是：在梦里考试，是屑”</p>
+]]></content>
+      <categories>
+        <category>梦</category>
+      </categories>
+      <tags>
+        <tag>梦</tag>
+        <tag>倒霉</tag>
       </tags>
   </entry>
 </search>
