@@ -2,5 +2,14 @@
     "title":"ZBK/C6H4O2/RT_WDのBLOG",
     "subTitle":"放一些笔记和文章之类的东西，总之会经常更新的",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "email":"2535771636@qq.com",
+    "startSite":"11/2/2024",
+    "onePageListNum":15,
+    "singlePage":["about"],
+    "exlink":{"music":"https://music.meekdai.com"},
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "bottomText":"これはなに？",
+    "needComment":1
 }
